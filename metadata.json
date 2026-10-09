@@ -1,0 +1,6 @@
+{
+  "name": "AKASH ANIME",
+  "description": "Add, track and watch anime links, chat with Gemini Anime AI Companion, and analyze anime images/screenshots with Gemini 3.1 Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
